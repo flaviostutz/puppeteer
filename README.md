@@ -6,12 +6,14 @@ Puppeteer docker container base for automation scripts
 * Create a directory with two files for creating a new container extending this base container
 
   * Dockerfile
+  
 ```
 FROM flaviostutz/puppeteer
 ADD /main.js /app/main.js
 ```
 
   * docker-compose.yml
+
 ```yml
 version: '3.7'
 
