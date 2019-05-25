@@ -6,5 +6,5 @@ services:
     build: .
     cap_add:
       - SYS_ADMIN
-    # volume:
-    #   - /tmp/output:/output
+    volumes:
+      - /tmp/output:/output

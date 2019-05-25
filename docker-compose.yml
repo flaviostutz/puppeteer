@@ -7,5 +7,5 @@ services:
     image: flaviostutz/puppeteer
     cap_add:
       - SYS_ADMIN
-    # volume:
+    # volumes:
     #   - /tmp/output:/output

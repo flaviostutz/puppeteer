@@ -1,3 +1,3 @@
 FROM flaviostutz/puppeteer
 
-ADD /main.sj /app/main.js
+ADD /main.js /app/main.js
