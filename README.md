@@ -1,4 +1,7 @@
 # puppeteer
+
+[<img src="https://img.shields.io/docker/automated/flaviostutz/pupeteer"/>](https://hub.docker.com/r/flaviostutz/pupeteer)
+
 Puppeteer docker container base for automation scripts
 
 ## Usage
